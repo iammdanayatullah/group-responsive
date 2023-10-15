@@ -1,0 +1,1032 @@
+.not-logged-in-desktop,
+.not-logged-in-desktop * {
+  box-sizing: border-box;
+}
+.not-logged-in-desktop {
+  background: #ffffff;
+  width: 1440px;
+  height: 2477px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-2 {
+  width: 1440px;
+  height: 440px;
+  position: absolute;
+  left: 0px;
+  top: 72px;
+}
+.rectangle-3 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.45) 0%,
+    rgba(0, 0, 0, 0.6) 100%
+  );
+  width: 1440px;
+  height: 440px;
+  position: absolute;
+  left: 0px;
+  top: 72px;
+}
+.group-30 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle {
+  background: #ffffff;
+  width: 1440px;
+  height: 72px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.12);
+}
+.whole {
+  width: 162.57px;
+  height: 24px;
+  position: absolute;
+  left: 72px;
+  top: 24px;
+  overflow: hidden;
+}
+.whole2 {
+  position: absolute;
+  inset: 0;
+}
+.group-64 {
+  width: 24.02px;
+  height: 24.01px;
+  position: static;
+}
+.ellipse-24 {
+  position: absolute;
+  left: 93.32px;
+  top: 8.53px;
+  overflow: visible;
+}
+.group-63 {
+  width: 24.02px;
+  height: 24.01px;
+  position: static;
+}
+.group-61 {
+  position: absolute;
+  left: 84.79px;
+  top: 0px;
+  overflow: visible;
+}
+.group-62 {
+  position: absolute;
+  left: 97.63px;
+  top: 0px;
+  overflow: visible;
+}
+.path-957 {
+  position: absolute;
+  left: 84.82px;
+  top: 12.79px;
+  overflow: visible;
+}
+.path-958 {
+  position: absolute;
+  left: 103.32px;
+  top: 12.79px;
+  overflow: visible;
+}
+.path-959 {
+  position: absolute;
+  left: 84.79px;
+  top: -0.01px;
+  overflow: visible;
+}
+.path-960 {
+  position: absolute;
+  left: 97.63px;
+  top: 12.79px;
+  overflow: visible;
+}
+.path-961 {
+  position: absolute;
+  left: 90.31px;
+  top: 12.82px;
+  overflow: visible;
+}
+.path-962 {
+  position: absolute;
+  left: 97.63px;
+  top: 0px;
+  overflow: visible;
+}
+.group-65 {
+  position: absolute;
+  left: -0.01px;
+  top: 1.17px;
+  overflow: visible;
+}
+.group-66 {
+  position: absolute;
+  left: 111.58px;
+  top: 1.37px;
+  overflow: visible;
+}
+.union-1 {
+  position: absolute;
+  left: 84.79px;
+  top: 0px;
+  overflow: visible;
+}
+.group-29 {
+  width: 360px;
+  height: 42px;
+  position: static;
+}
+.rectangle2 {
+  background: #f2f2f2;
+  border-radius: 21px;
+  width: 360px;
+  height: 42px;
+  position: absolute;
+  left: 540px;
+  top: 16px;
+}
+.group-28 {
+  width: 22px;
+  height: 22px;
+  position: static;
+}
+.baseline-search-24-px {
+  position: absolute;
+  left: 554px;
+  top: 26px;
+  overflow: visible;
+}
+.search-for-your-favorite-groups-in-atg {
+  color: #5c5c5c;
+  text-align: left;
+  font: 500 14px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 590px;
+  top: 28px;
+}
+
+
+
+
+
+
+
+.baseline-arrow-drop-down-24-px {
+  position: absolute;
+  left: 1344px;
+  top: 26px;
+  overflow: visible;
+}
+.computer-engineering {
+  color: #ffffff;
+  text-align: left;
+  font: 700 36px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 200px;
+  top: 358px;
+}
+._142-765-computer-engineers-follow-this {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 200px;
+  top: 409px;
+}
+.line {
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 1px 0 0 0;
+  width: 1040px;
+  height: 0px;
+  position: absolute;
+  left: 200px;
+  top: 600px;
+}
+.line2 {
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 1px 0 0 0;
+  opacity: 0;
+  width: 1296px;
+  height: 0px;
+  position: absolute;
+  left: 72px;
+  top: 544px;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 93px;
+  height: 0px;
+  position: absolute;
+  left: 200px;
+  top: 600px;
+}
+.group-34 {
+  position: absolute;
+  inset: 0;
+}
+.all-posts-32 {
+  color: #000000;
+  text-align: left;
+  font: 400 16px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 200px;
+  top: 559px;
+}
+.article {
+  color: #8a8a8a;
+  text-align: left;
+  font: 400 16px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 313px;
+  top: 559px;
+}
+.event {
+  color: #8a8a8a;
+  text-align: left;
+  font: 400 16px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 380px;
+  top: 559px;
+}
+.education {
+  color: #8a8a8a;
+  text-align: left;
+  font: 400 16px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 439px;
+  top: 559px;
+}
+.job {
+  color: #8a8a8a;
+  text-align: left;
+  font: 400 16px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 531px;
+  top: 559px;
+}
+.group-612 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-4 {
+  background: #edeef0;
+  border-radius: 4px;
+  width: 133px;
+  height: 36px;
+  position: absolute;
+  left: 966px;
+  top: 552px;
+}
+.write-a-post {
+  color: #000000;
+  text-align: left;
+  font: 500 15px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 978px;
+  top: 560px;
+}
+.baseline-arrow-drop-down-24-px2 {
+  position: absolute;
+  left: 1071px;
+  top: 559px;
+  overflow: visible;
+}
+.outline-location-on-24-px-2 {
+  position: absolute;
+  left: 997px;
+  top: 656px;
+  overflow: visible;
+}
+.line-3 {
+  border-style: solid;
+  border-color: #b8b8b8;
+  border-width: 0.4px 0 0 0;
+  width: 243px;
+  height: 0px;
+  position: absolute;
+  left: 997px;
+  top: 685px;
+}
+.noida-india {
+  color: #000000;
+  text-align: left;
+  font: 400 14px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 1019px;
+  top: 656px;
+}
+.baseline-edit-24-px {
+  position: absolute;
+  left: 1220px;
+  top: 655px;
+  overflow: visible;
+}
+.group-42 {
+  position: absolute;
+  inset: 0;
+}
+.your-location-will-help-us-serve-better-and-extend-a-personalised-experience {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "IBM Plex Sans", sans-serif;
+  opacity: 0.5;
+  position: absolute;
+  left: 1020px;
+  top: 717px;
+  width: 220px;
+}
+.baseline-error-outline-24-px {
+  opacity: 0.5;
+  position: absolute;
+  left: 997px;
+  top: 718px;
+  overflow: visible;
+}
+.group-43 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-42 {
+  background: #2f6ce5;
+  border-radius: 4px;
+  width: 125px;
+  height: 36px;
+  position: absolute;
+  left: 1115px;
+  top: 552px;
+}
+.join-group {
+  color: #ffffff;
+  text-align: left;
+  font: 500 15px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 1153px;
+  top: 560px;
+}
+.baseline-group-add-24-px {
+  position: absolute;
+  left: 1125px;
+  top: 559px;
+  overflow: visible;
+}
+.group-7 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-43 {
+  background: #ffffff;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 1px;
+  width: 692px;
+  height: 472px;
+  position: absolute;
+  left: 200px;
+  top: 1116px;
+}
+.baseline-more-vert-24-px {
+  position: absolute;
+  left: 872px;
+  top: 1392px;
+  transform: translate(-28px, 0px);
+  overflow: visible;
+}
+.education2 {
+  color: #000000;
+  text-align: left;
+  font: 500 18px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 220px;
+  top: 1356px;
+}
+.tax-benefits-for-investment-under-national-pension-scheme-launched-by-government {
+  color: #000000;
+  text-align: left;
+  font: 600 22px/134.55% "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 220px;
+  top: 1391px;
+  width: 600px;
+}
+.rectangle-5 {
+  background: linear-gradient(to left, #c4c4c4, #c4c4c4);
+  border-radius: 4px 4px 0px 0px;
+  width: 692px;
+  height: 220px;
+  position: absolute;
+  left: 200px;
+  top: 1116px;
+}
+.i-ve-worked-in-ux-for-the-better-part-of-a-decade-from-now-on-i-plan-to-rei {
+  color: #5c5c5c;
+  text-align: left;
+  font: 400 19px/134.17% "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 220px;
+  top: 1463px;
+  width: 652px;
+}
+.rectangle-32 {
+  border-radius: 24px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 220px;
+  top: 1520px;
+}
+.sarah-west {
+  color: #000000;
+  text-align: left;
+  font: 600 18px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 278px;
+  top: 1532px;
+}
+.group {
+  width: 95px;
+  height: 18px;
+  position: static;
+}
+.icon-action-visibility-24-px {
+  position: absolute;
+  left: 695px;
+  top: 1535px;
+  overflow: visible;
+}
+._1-4-k-views {
+  color: #525252;
+  text-align: right;
+  font: 500 14px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 721px;
+  top: 1535px;
+}
+.rectangle-44 {
+  background: #ffffff;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 1px;
+  width: 692px;
+  height: 490px;
+  position: absolute;
+  left: 200px;
+  top: 1604px;
+}
+.group-42-2 {
+  width: 652px;
+  height: 38px;
+  position: static;
+}
+.rectangle-22 {
+  background: #ffffff;
+  border-radius: 8px;
+  border-style: dashed;
+  border-color: #a9aeb8;
+  border-width: 0.7px;
+  width: 652px;
+  height: 38px;
+  position: absolute;
+  left: 220px;
+  top: 1956px;
+}
+.visit-website {
+  color: #e56135;
+  text-align: center;
+  font: 600 13px/140.4% "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 1966px;
+}
+.group-53 {
+  width: 358px;
+  height: 20px;
+  position: static;
+}
+.outline-location-on-24-px {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 426px;
+  top: 1920px;
+  overflow: hidden;
+}
+.bounding-boxes {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.outline {
+  position: absolute;
+  inset: 0;
+}
+.group2 {
+  position: absolute;
+  left: 4.17px;
+  top: 1.67px;
+  overflow: visible;
+}
+.ahmedabad-india {
+  color: #000000;
+  text-align: left;
+  font: 500 15px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 450px;
+  top: 1920px;
+}
+.fri-12-oct-2018 {
+  color: #000000;
+  text-align: left;
+  font: 500 15px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 244px;
+  top: 1920px;
+  width: 142px;
+}
+.baseline-today-24-px {
+  position: absolute;
+  left: 220px;
+  top: 1920px;
+  overflow: visible;
+}
+.vector23 {
+  border-radius: 0px;
+  position: absolute;
+  left: 871px;
+  top: 1910px;
+  transform: translate(-36px, -32px);
+  overflow: visible;
+}
+.baseline-more-vert-24-px2 {
+  position: absolute;
+  left: 867px;
+  top: 1880px;
+  transform: translate(-28px, 0px);
+  overflow: visible;
+}
+.meetup {
+  color: #000000;
+  text-align: left;
+  font: 500 18px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 220px;
+  top: 1844px;
+}
+.finance-investment-elite-social-mixer-lujiazui {
+  color: #000000;
+  text-align: left;
+  font: 600 22px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 220px;
+  top: 1879px;
+  width: 600px;
+}
+.rectangle-52 {
+  background: linear-gradient(to left, #c4c4c4, #c4c4c4);
+  border-radius: 4px 4px 0px 0px;
+  width: 692px;
+  height: 220px;
+  position: absolute;
+  left: 200px;
+  top: 1604px;
+}
+.group-52 {
+  width: 160px;
+  height: 48px;
+  position: static;
+}
+.rectangle-33 {
+  border-radius: 24px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 220px;
+  top: 2026px;
+}
+.ronal-jones {
+  color: #000000;
+  text-align: left;
+  font: 600 18px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 278px;
+  top: 2038px;
+}
+.icon-action-visibility-24-px3 {
+  position: absolute;
+  left: 695px;
+  top: 2041px;
+  overflow: visible;
+}
+._1-4-k-views2 {
+  color: #525252;
+  text-align: right;
+  font: 500 14px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 721px;
+  top: 2041px;
+}
+.rectangle-45 {
+  background: #ffffff;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 1px;
+  width: 692px;
+  height: 269px;
+  position: absolute;
+  left: 200px;
+  top: 2110px;
+}
+.icon-action-visibility-24-px5 {
+  position: absolute;
+  left: 695px;
+  top: 2326px;
+  overflow: visible;
+}
+._1-4-k-views3 {
+  color: #525252;
+  text-align: right;
+  font: 500 14px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 721px;
+  top: 2326px;
+}
+.baseline-more-vert-24-px3 {
+  position: absolute;
+  left: 872px;
+  top: 2166px;
+  transform: translate(-28px, 0px);
+  overflow: visible;
+}
+.job2 {
+  color: #000000;
+  text-align: left;
+  font: 500 18px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 220px;
+  top: 2130px;
+}
+.software-developer {
+  color: #000000;
+  text-align: left;
+  font: 600 22px/134.55% "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 220px;
+  top: 2165px;
+  width: 600px;
+}
+.rectangle-34 {
+  border-radius: 24px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 220px;
+  top: 2311px;
+}
+.joseph-gray {
+  color: #000000;
+  text-align: left;
+  font: 600 18px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 278px;
+  top: 2323px;
+}
+.group-54 {
+  width: 399px;
+  height: 20px;
+  position: static;
+}
+.outline-location-on-24-px2 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 510px;
+  top: 2207px;
+  overflow: hidden;
+}
+.bounding-boxes2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group3 {
+  position: absolute;
+  left: 4.17px;
+  top: 1.67px;
+  overflow: visible;
+}
+.noida-india2 {
+  color: #000000;
+  text-align: left;
+  font: 500 15px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 534px;
+  top: 2207px;
+}
+.innovaccer-analytics-private-ltd {
+  color: #000000;
+  text-align: left;
+  font: 500 15px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 244px;
+  top: 2207px;
+}
+.outline-work-outline-24-px {
+  position: absolute;
+  left: 220px;
+  top: 2207px;
+  overflow: visible;
+}
+.group-422 {
+  width: 650px;
+  height: 36px;
+  position: static;
+}
+.rectangle-23 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: dashed;
+  border-color: #a9aeb8;
+  border-width: 0.7px;
+  width: 650px;
+  height: 36px;
+  position: absolute;
+  left: 222px;
+  top: 2243px;
+}
+.apply-on-timesjobs {
+  color: #02b875;
+  text-align: center;
+  font: 600 13px/140.4% "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 488px;
+  top: 2252px;
+}
+.rectangle-46 {
+  background: #ffffff;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 1px;
+  width: 692px;
+  height: 472px;
+  position: absolute;
+  left: 200px;
+  top: 628px;
+}
+.group-3 {
+  width: 28px;
+  height: 28px;
+  position: static;
+}
+.baseline-more-vert-24-px4 {
+  position: absolute;
+  left: 872px;
+  top: 904px;
+  transform: translate(-28px, 0px);
+  overflow: visible;
+}
+.article2 {
+  color: #000000;
+  text-align: left;
+  font: 500 18px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 220px;
+  top: 868px;
+}
+.what-if-famous-brands-had-regular-fonts-meet-regula-brands {
+  color: #000000;
+  text-align: left;
+  font: 600 22px/134.17% "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 220px;
+  top: 903px;
+  width: 600px;
+}
+.rectangle-53 {
+  background: linear-gradient(to left, #c4c4c4, #c4c4c4);
+  border-radius: 4px 4px 0px 0px;
+  width: 692px;
+  height: 220px;
+  position: absolute;
+  left: 200px;
+  top: 628px;
+}
+.i-ve-worked-in-ux-for-the-better-part-of-a-decade-from-now-on-i-plan-to-rei2 {
+  color: #5c5c5c;
+  text-align: left;
+  font: 400 19px/134.17% "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 220px;
+  top: 975px;
+  width: 652px;
+}
+.icon-action-visibility-24-px7 {
+  position: absolute;
+  left: 695px;
+  top: 1047px;
+  overflow: visible;
+}
+._1-4-k-views4 {
+  color: #525252;
+  text-align: right;
+  font: 500 14px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 721px;
+  top: 1047px;
+}
+.rectangle-35 {
+  border-radius: 24px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 220px;
+  top: 1032px;
+}
+.sarthak-kamra {
+  color: #000000;
+  text-align: left;
+  font: 600 18px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 278px;
+  top: 1044px;
+}
+.group-2 {
+  width: 42px;
+  height: 36px;
+  position: static;
+}
+.rectangle-4-1 {
+  background: #edeef0;
+  border-radius: 2px;
+  width: 42px;
+  height: 36px;
+  position: absolute;
+  left: 830px;
+  top: 1038px;
+}
+.baseline-share-24-px {
+  position: absolute;
+  left: 842px;
+  top: 1047px;
+  overflow: visible;
+}
+.group-2-1 {
+  width: 42px;
+  height: 36px;
+  position: static;
+}
+.rectangle-4-12 {
+  background: #edeef0;
+  border-radius: 2px;
+  width: 42px;
+  height: 36px;
+  position: absolute;
+  left: 830px;
+  top: 1526px;
+}
+.baseline-share-24-px2 {
+  position: absolute;
+  left: 842px;
+  top: 1535px;
+  overflow: visible;
+}
+.group-2-2 {
+  width: 42px;
+  height: 36px;
+  position: static;
+}
+.rectangle-4-13 {
+  background: #edeef0;
+  border-radius: 2px;
+  width: 42px;
+  height: 36px;
+  position: absolute;
+  left: 830px;
+  top: 2032px;
+}
+.baseline-share-24-px3 {
+  position: absolute;
+  left: 842px;
+  top: 2041px;
+  overflow: visible;
+}
+.group-2-3 {
+  width: 42px;
+  height: 36px;
+  position: static;
+}
+.rectangle-4-14 {
+  background: #edeef0;
+  border-radius: 2px;
+  width: 42px;
+  height: 36px;
+  position: absolute;
+  left: 830px;
+  top: 2317px;
+}
+.baseline-share-24-px4 {
+  position: absolute;
+  left: 842px;
+  top: 2326px;
+  overflow: visible;
+}
+.group-6 {
+  width: 160px;
+  height: 102px;
+  position: static;
+}
+.rectangle-6 {
+  background: #ffffff;
+  border-radius: 4px;
+  width: 160px;
+  height: 102px;
+  position: absolute;
+  left: 712px;
+  top: 1914px;
+  box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.08),
+    0px 2px 8px 0px rgba(0, 0, 0, 0.16);
+}
+.group-32 {
+  width: 160px;
+  height: 32px;
+  position: static;
+}
+.rectangle-7 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  opacity: 0;
+  width: 160px;
+  height: 32px;
+  position: absolute;
+  left: 712px;
+  top: 1918px;
+}
+.edit {
+  color: #000000;
+  text-align: right;
+  font: 400 14px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 724px;
+  top: 1925px;
+}
+.group-4 {
+  width: 160px;
+  height: 32px;
+  position: static;
+}
+.rectangle-7-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  opacity: 0;
+  width: 160px;
+  height: 32px;
+  position: absolute;
+  left: 712px;
+  top: 1949px;
+}
+.report {
+  color: #000000;
+  text-align: left;
+  font: 400 14px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 724px;
+  top: 1956px;
+}
+.group-5 {
+  width: 160px;
+  height: 32px;
+  position: static;
+}
+.rectangle-7-2 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  opacity: 0;
+  width: 160px;
+  height: 32px;
+  position: absolute;
+  left: 712px;
+  top: 1980px;
+}
+.option-3 {
+  color: #000000;
+  text-align: left;
+  font: 400 14px "IBM Plex Sans", sans-serif;
+  position: absolute;
+  left: 724px;
+  top: 1987px;
+}
